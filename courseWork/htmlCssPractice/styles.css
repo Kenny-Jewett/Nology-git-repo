@@ -13,6 +13,9 @@ h1:active {
     color: green;
 }
 
+h2 {
+    font-family: "Ultra", sans-serif;
+}
 h2:active {
     text-decoration: underline;
     color: green;
