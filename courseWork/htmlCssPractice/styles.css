@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Ultra&display=swap');
+* {
+    margin: 0
+    padding: 0;       
+}
+
+h1 {
+    font-family: "Ultra", sans-serif;
+}
+
+h1:active {
+    text-decoration: underline;
+    color: green;
+}
+
+h2:active {
+    text-decoration: underline;
+    color: green;
+    
+}
+
+p {
+    font-family: "PT Serif", sans-serif;
+}
+
+p:hover {
+    font-weight: bold;
+    font-variant-caps: normal;
+    text-transform: uppercase;
+}
+
